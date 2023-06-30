@@ -1,0 +1,6 @@
+Total months: {total_months}
+Total:  $22564198
+Average Change: $-8311.11
+Greatest profit of the whole period (EXTRA): $1141840
+Greatest Increase in Profits: Aug-16 1862002
+Greatest Increase in Profits: Feb-14 -1825558
